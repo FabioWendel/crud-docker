@@ -8,16 +8,16 @@
 
 ```
 docker-compose up -d --build
-```
-
-## Docker down para finalizar
 
 ```
-sudo docker-compose down 
-```
-
 ## Acessar pelo Navegador
 
 ```
 http://localhost:80
+
+```
+## Docker down para finalizar
+
+```
+sudo docker-compose down 
 ```
